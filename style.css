@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* outline: 1px dotted blue; */
+}
+
+.container {
+    width: 980px;
+    min-height: 900px;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.img {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+}
